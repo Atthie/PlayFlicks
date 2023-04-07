@@ -1,0 +1,24 @@
+
+$alegreya:'Alegreya';
+.nav{
+background-color:black; 
+  .nav-wrapper{
+    .logo{
+      display: flex; align-items: center; gap: 0px;
+      font-family: $alegreya;
+      font-size: 30px;
+      padding: 0px 100px ;
+      .material-icons{
+        color: red;font-size: 70px;
+      }
+      h6{
+        font-size: 20px;margin-left: -25px;
+      }
+    }
+  
+  }
+    
+}
+.liens{
+  margin: 0px 100px 0px 0px;
+}

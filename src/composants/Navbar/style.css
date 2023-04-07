@@ -1,0 +1,23 @@
+.nav {
+  background-color: black;
+}
+.nav .nav-wrapper .logo {
+  display: flex;
+  align-items: center;
+  gap: 0px;
+  font-family: "Alegreya";
+  font-size: 30px;
+  padding: 0px 100px;
+}
+.nav .nav-wrapper .logo .material-icons {
+  color: red;
+  font-size: 70px;
+}
+.nav .nav-wrapper .logo h6 {
+  font-size: 20px;
+  margin-left: -25px;
+}
+
+.liens {
+  margin: 0px 100px 0px 0px;
+}/*# sourceMappingURL=style.css.map */
