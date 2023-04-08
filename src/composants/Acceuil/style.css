@@ -1,0 +1,33 @@
+.banner .banner-image {
+  filter: brightness(30%);
+  width: 100%;
+  height: 800px;
+}
+.banner .banner-content {
+  position: absolute;
+  top: 30%;
+  left: 37vw;
+  transform: translate(-50%);
+  text-align: left;
+  color: white;
+  max-width: 70vw;
+}
+.banner .banner-content h5 {
+  font-family: "Alegreya";
+  font-weight: 700;
+  font-size: 30px;
+}
+.banner .banner-content h5 strong {
+  color: #FF0000;
+  font-weight: 32px;
+}
+.banner .banner-content h1 {
+  font-family: "Alegreya";
+  font-weight: 700;
+  font-size: 60px;
+}
+.banner .banner-content p {
+  text-align: justify;
+  font-family: "Alegreya";
+  font-size: 20px;
+}/*# sourceMappingURL=style.css.map */

@@ -26,7 +26,7 @@ function MyComponent() {
       preventScrolling: true,
     }}
   >
-    <NavItem className='un' style={{fontFamily:'Alegreya',fontSize:'20px'}} href="#">Acceuil</NavItem>
+    <NavItem to='/'className='un' style={{fontFamily:'Alegreya',fontSize:'20px'}} href="#">Acceuil</NavItem>
     <NavItem className='deux'style={{fontFamily:'Alegreya',fontSize:'20px'}} href="#">Film</NavItem>
     <NavItem className='liens trois' style={{fontFamily:'Alegreya',fontSize:'20px'}} href="#">Series</NavItem>
   </Navbar>
